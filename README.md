@@ -8,6 +8,6 @@ Info to install PySpark: <sub>on terminal,</sub>
 4. `python -m pip install --upgrade pip setuptools wheel`.
 5. `pip install -r requirements.txt`.
 6. `./<VENV_FILE_NAME>/lib/site-packages/pyspark/bin/pyspark` to open PySpark.
-7. If success, You should see something like this.
+7. If success, You should see something [like this](https://github.com/zeenfts/viz-install-pyspark/blob/main/.img_ss/839340pyspark.png).
 
 **<sub>Python 3.7+ supported!</sub>**
