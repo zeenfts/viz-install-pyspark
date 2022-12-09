@@ -1,7 +1,7 @@
 # viz-install-pyspark
-NYC TLC 2019 Yellow Taxi Trip Data [Dashboard](https://github.com/zeenfts/viz-install-pyspark/blob/main/yellow-taxi-dashboard-nyc-tlc.twb) using Tableau and PySpark Installation [Steps](https://github.com/zeenfts/viz-install-pyspark/tree/main/.img_ss).
+NYC TLC 2019 Yellow Taxi Trip Data Dashboard using [Tableau](https://github.com/zeenfts/viz-install-pyspark/blob/main/yellow-taxi-dashboard-nyc-tlc.twb) and PySpark Installation [Steps](https://github.com/zeenfts/viz-install-pyspark/tree/main/.img_ss).
 
-*<sub>Sorry, there is problem with data integration that could not extract it, so the dashboard failed to publish!</sub>*
+*<sub>Sorry, there is a problem with data integration that could not extract it, so the dashboard failed to publish!</sub>*
 ![dashboard_nyc](https://github.com/zeenfts/viz-install-pyspark/blob/main/.img_ss/929351dashboard1_full.png)
 
 Detail:
