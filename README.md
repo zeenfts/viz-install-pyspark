@@ -1,13 +1,12 @@
 # viz-install-pyspark
-NYC TLC 2019 Yellow Taxi Trip Data Dashboard and PySpark Installation Steps.
+NYC TLC 2019 Yellow Taxi Trip Data [Dashboard](https://github.com/zeenfts/viz-install-pyspark/yellow-taxi-dashboard-nyc-tlc.twb) and PySpark Installation [Steps](https://github.com/zeenfts/viz-install-pyspark/blob/main/.img_ss).
 
-Info to install PySpark: <sub>on terminal,</sub>
-1. [Download Java JDK](https://www.oracle.com/java/technologies/downloads/#java8) to your computer. 
-2. Create virtual environment `python -m venv <VENV_FILE_NAME>`.
-3. `<VENV_FILE_NAME>/Scripts/activate` to use the environment.
-4. `python -m pip install --upgrade pip setuptools wheel`.
-5. `pip install -r requirements.txt`.
-6. `./<VENV_FILE_NAME>/lib/site-packages/pyspark/bin/pyspark` to open PySpark.
-7. If success, You should see something [like this](https://github.com/zeenfts/viz-install-pyspark/blob/main/.img_ss/839340pyspark.png).
+*<sub>Sorry, there is problem with data integration that could not extract it, so the dashboard failed to publish!</sub>*
+![dashboard_nyc](https://github.com/zeenfts/viz-install-pyspark/blob/main/.img_ss/929351dashboard1_full.png)
 
-**<sub>Python 3.7+ supported!</sub>**
+Detail:
+1. Over time whether from total trips, total passengers, total distance, and total duration give almost exactly the same graph.
+2. Most of the customers were using credit card and cash as their payment method.
+3. The most vendor use by each taxi is VeriFone, Inc.
+4. Manhattan, New York City was the highest Borough that record the trips.
+5. And for the zone top 5 were: Upper East Side South, Midtown Center, Upper East Side North, Midtown East, and Times Sq/Theatre District.
