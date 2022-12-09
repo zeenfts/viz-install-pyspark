@@ -1,7 +1,7 @@
 # viz-install-pyspark
-NYC TLC 2019 Yellow Taxi Trip Data Dashboard using [Tableau](https://github.com/zeenfts/viz-install-pyspark/blob/main/yellow-taxi-dashboard-nyc-tlc.twb) and PySpark Installation [Steps](https://github.com/zeenfts/viz-install-pyspark/tree/main/.img_ss).
+NYC TLC 2019 Yellow Taxi Trip Data Dashboard using [Tableau](https://public.tableau.com/views/copysampels4dashboard/NYCTLC?:language=en-US&:display_count=n&:origin=viz_share_link) and PySpark Installation [Steps](https://github.com/zeenfts/viz-install-pyspark/tree/main/.img_ss).
 
-*<sub>Sorry, there is a problem with data integration that could not extract it, so the dashboard failed to publish!</sub>*
+*<sub>Sorry, there is a problem with data integration that could not extract it, so the dashboard failed to publish with full data! but don't worry there is still the published version eventhough only using 0.002% fraction of the data.</sub>*
 ![dashboard_nyc](https://github.com/zeenfts/viz-install-pyspark/blob/main/.img_ss/929351dashboard1_full.png)
 
 Detail:
@@ -12,10 +12,3 @@ Detail:
 5. And for the zone top 5 were: Upper East Side South, Midtown Center, Upper East Side North, Midtown East, and Times Sq/Theatre District.
 
 **<sub>For the data based on this [Project](https://github.com/zeenfts/dbt-yellow19-bq)</sub>**
-
-![dashboard_nyc](https://github.com/zeenfts/viz-install-pyspark/blob/main/.img_ss/929352dashboard2_full.png)
-![dashboard_nyc](https://github.com/zeenfts/viz-install-pyspark/blob/main/.img_ss/929353dashboard3_full.png)
-![dashboard_nyc](https://github.com/zeenfts/viz-install-pyspark/blob/main/.img_ss/929354dashboard4_full.png)
-![dashboard_nyc](https://github.com/zeenfts/viz-install-pyspark/blob/main/.img_ss/929355dashboard5_full.png)
-![dashboard_nyc](https://github.com/zeenfts/viz-install-pyspark/blob/main/.img_ss/929356dashboard6_full.png)
-![dashboard_nyc](https://github.com/zeenfts/viz-install-pyspark/blob/main/.img_ss/929357dashboard7_full.png)
